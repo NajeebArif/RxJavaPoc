@@ -1,0 +1,4 @@
+com\affinity\rxjavapoc\model\StockInfo.class
+com\affinity\rxjavapoc\service\YahooFinanceService.class
+com\affinity\rxjavapoc\server\StockServer.class
+MainApp.class
