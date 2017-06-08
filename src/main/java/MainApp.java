@@ -8,7 +8,6 @@ import rx.Observable;
 
 public class MainApp {
 
-	public MainApp() {}
 
 	public static void main(String[] args) {
 		List<String> symbols = Arrays.asList("AMZN", "GOOG", "ORCL");
